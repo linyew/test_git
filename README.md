@@ -1,4 +1,4 @@
 test_git
 ========
 
-A environment for testing git.
+A environment for testing git...
